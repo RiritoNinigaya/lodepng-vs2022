@@ -1,2 +1,3 @@
 # lodepng-vs2022
-lodepng-vs2022 by RiritoNinigaya
+
+This is Fixed LODEPNG Project for You're Program or Something Else... So Enjoy to use this!!!
